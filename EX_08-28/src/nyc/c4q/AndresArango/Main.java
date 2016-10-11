@@ -8,7 +8,6 @@ public class Main {
     public class Student{
         private String firstName;
         private String lastName;
-        private String idNumber;
         private String chicken;
         private String chocolate;
         private String plantains;
